@@ -1,0 +1,23 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+body
+{
+    background: url(nl.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.child
+{
+    color: purple;
+    border: 25px;
+    float: left;
+    width: 50%;
+
+}
